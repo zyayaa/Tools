@@ -1,1 +1,1 @@
-certutil.exe -urlcache -split -f http://url/filepath.ext filepathfilename.ext
+certutil.exe -urlcache -split -f http://url/filepath.ext filepath/filename.ext
