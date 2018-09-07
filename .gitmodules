@@ -1,0 +1,21 @@
+[submodule "AV-ByPass/Ebowla"]
+	path = AV-ByPass/Ebowla
+	url = https://github.com/Genetic-Malware/Ebowla.git
+[submodule "Networking/Responder"]
+	path = Networking/Responder
+	url = https://github.com/lgandx/Responder.git
+[submodule "Local/PrivilegeEscalation/Windows/Sherlock"]
+	path = Local/PrivilegeEscalation/Windows/Sherlock
+	url = https://github.com/rasta-mouse/Sherlock.git
+[submodule "WordLists/SecLists"]
+	path = WordLists/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "Local/static-binaries"]
+	path = Local/static-binaries
+	url = https://github.com/andrew-d/static-binaries.git
+[submodule "Local/static-tools"]
+	path = Local/static-tools
+	url = https://github.com/ZephrFish/static-tools
+[submodule "Web/sqlmap-dev"]
+	path = Web/sqlmap-dev
+	url = https://github.com/sqlmapproject/sqlmap.git
