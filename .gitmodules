@@ -19,3 +19,6 @@
 [submodule "Web/sqlmap-dev"]
 	path = Web/sqlmap-dev
 	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "Local/pspy"]
+	path = Local/pspy
+	url = https://github.com/DominicBreuker/pspy.git
