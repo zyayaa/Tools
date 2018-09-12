@@ -22,3 +22,6 @@
 [submodule "Local/pspy"]
 	path = Local/pspy
 	url = https://github.com/DominicBreuker/pspy.git
+[submodule "Local/PrivilegeEscalation/Windows/PowerSploit"]
+	path = Local/PrivilegeEscalation/Windows/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
