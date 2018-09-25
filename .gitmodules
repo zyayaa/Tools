@@ -25,3 +25,6 @@
 [submodule "Local/PrivilegeEscalation/Windows/PowerSploit"]
 	path = Local/PrivilegeEscalation/Windows/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "Utils/impacket"]
+	path = Utils/impacket
+	url = https://github.com/CoreSecurity/impacket.git
