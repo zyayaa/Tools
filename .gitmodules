@@ -28,3 +28,6 @@
 [submodule "Utils/impacket"]
 	path = Utils/impacket
 	url = https://github.com/CoreSecurity/impacket.git
+[submodule "Utils/PayloadsAllTheThings"]
+	path = Utils/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
