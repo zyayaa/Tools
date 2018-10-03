@@ -31,3 +31,6 @@
 [submodule "Utils/PayloadsAllTheThings"]
 	path = Utils/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "Utils/pwnedOrNot"]
+	path = Utils/pwnedOrNot
+	url = https://github.com/thewhiteh4t/pwnedOrNot.git
