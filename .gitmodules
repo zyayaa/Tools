@@ -34,3 +34,6 @@
 [submodule "Utils/pwnedOrNot"]
 	path = Utils/pwnedOrNot
 	url = https://github.com/thewhiteh4t/pwnedOrNot.git
+[submodule "Local/PrivilegeEscalation/Windows/ADAPE-Script"]
+	path = Local/PrivilegeEscalation/Windows/ADAPE-Script
+	url = https://github.com/hausec/ADAPE-Script.git
