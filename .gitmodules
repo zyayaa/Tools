@@ -37,3 +37,6 @@
 [submodule "Local/PrivilegeEscalation/Windows/ADAPE-Script"]
 	path = Local/PrivilegeEscalation/Windows/ADAPE-Script
 	url = https://github.com/hausec/ADAPE-Script.git
+[submodule "Networking/badKarma"]
+	path = Networking/badKarma
+	url = https://github.com/r3vn/badKarma.git
