@@ -40,3 +40,6 @@
 [submodule "Networking/badKarma"]
 	path = Networking/badKarma
 	url = https://github.com/r3vn/badKarma.git
+[submodule "Web/wfuzz"]
+	path = Web/wfuzz
+	url = https://github.com/xmendez/wfuzz.git
