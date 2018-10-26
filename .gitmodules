@@ -43,3 +43,6 @@
 [submodule "Web/wfuzz"]
 	path = Web/wfuzz
 	url = https://github.com/xmendez/wfuzz.git
+[submodule "Web/Sublist3r"]
+	path = Web/Sublist3r
+	url = https://github.com/aboul3la/Sublist3r.git
