@@ -46,3 +46,9 @@
 [submodule "Web/Sublist3r"]
 	path = Web/Sublist3r
 	url = https://github.com/aboul3la/Sublist3r.git
+[submodule "Scanners/arachni"]
+	path = Scanners/arachni
+	url = https://github.com/Arachni/arachni.git
+[submodule "Anonymizers/torghost"]
+	path = Anonymizers/torghost
+	url = https://github.com/susmithHCK/torghost.git
