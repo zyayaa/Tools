@@ -55,6 +55,3 @@
 [submodule "WordLists/fuzzdb"]
 	path = WordLists/fuzzdb
 	url = https://github.com/fuzzdb-project/fuzzdb.git
-[submodule "PayloadsAllTheThings"]
-	path = PayloadsAllTheThings
-	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
