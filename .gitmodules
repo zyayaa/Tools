@@ -28,9 +28,6 @@
 [submodule "Utils/impacket"]
 	path = Utils/impacket
 	url = https://github.com/CoreSecurity/impacket.git
-[submodule "Utils/PayloadsAllTheThings"]
-	path = Utils/PayloadsAllTheThings
-	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
 [submodule "Utils/pwnedOrNot"]
 	path = Utils/pwnedOrNot
 	url = https://github.com/thewhiteh4t/pwnedOrNot.git
@@ -52,3 +49,9 @@
 [submodule "Anonymizers/torghost"]
 	path = Anonymizers/torghost
 	url = https://github.com/susmithHCK/torghost.git
+[submodule "WordLists/IntruderPayloads"]
+	path = WordLists/IntruderPayloads
+	url = https://github.com/1N3/IntruderPayloads.git
+[submodule "WordLists/fuzzdb"]
+	path = WordLists/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
