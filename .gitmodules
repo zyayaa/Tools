@@ -61,3 +61,6 @@
 [submodule "Phishing/evilginx2"]
 	path = Phishing/evilginx2
 	url = https://github.com/kgretzky/evilginx2.git
+[submodule "Shells/unicorn"]
+	path = Shells/unicorn
+	url = https://github.com/trustedsec/unicorn.git
