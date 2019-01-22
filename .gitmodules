@@ -64,3 +64,6 @@
 [submodule "Shells/unicorn"]
 	path = Shells/unicorn
 	url = https://github.com/trustedsec/unicorn.git
+[submodule "Web/tplmap"]
+	path = Web/tplmap
+	url = https://github.com/epinna/tplmap.git
