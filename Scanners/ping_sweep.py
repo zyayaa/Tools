@@ -14,6 +14,7 @@ def pinger( job_q, results_q ):
             subprocess.check_call(['ping','-c1',ip],
                                   stdout=DEVNULL)
             results_q.put(ip)
+            print(ip)
         except:
             pass
 
@@ -28,16 +29,13 @@ if __name__ == '__main__':
 
     for p in pool:
         p.start()
-
-    for i in range(1,255):
-        jobs.put('155.133.194.{0}'.format(i))
+    
+    for x in range(0, 3):
+        for i in range(1,pool_size):
+            jobs.put('172.16.{0}.{1}'.format(x,i))
 
     for p in pool:
         jobs.put(None)
 
     for p in pool:
         p.join()
-
-    while not results.empty():
-        ip = results.get()
-        print(ip)
