@@ -64,3 +64,12 @@
 [submodule "Shells/unicorn"]
 	path = Shells/unicorn
 	url = https://github.com/trustedsec/unicorn.git
+[submodule "Web/tplmap"]
+	path = Web/tplmap
+	url = https://github.com/epinna/tplmap.git
+[submodule "Crypto/Padding-oracle-attack"]
+	path = Crypto/Padding-oracle-attack
+	url = https://github.com/mpgn/Padding-oracle-attack.git
+[submodule "Tunneling/chisel"]
+	path = Tunneling/chisel
+	url = https://github.com/jpillora/chisel.git
