@@ -10,7 +10,7 @@ def readFile(fname):
 def writeFile(hashes, fname):
     f = open(fname, "w")
     for h in hashes:
-        f.write(h)
+        f.write("{}\n".format(h))
     return
 
 domainAdmins=[]
@@ -42,7 +42,7 @@ for h in hashFile:
 
     m = re.search(regex, h)
     if m:
-        domainAdmins.append("{}\n".format(m.string))
+        domainAdmins.append("{}".format(m.string))
     else:
         domainUsers.append(h)
 
