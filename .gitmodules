@@ -73,3 +73,6 @@
 [submodule "Tunneling/chisel"]
 	path = Tunneling/chisel
 	url = https://github.com/jpillora/chisel.git
+[submodule "Utils/exe2hex"]
+	path = Utils/exe2hex
+	url = https://github.com/g0tmi1k/exe2hex.git
