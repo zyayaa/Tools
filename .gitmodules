@@ -76,3 +76,6 @@
 [submodule "Utils/exe2hex"]
 	path = Utils/exe2hex
 	url = https://github.com/g0tmi1k/exe2hex.git
+[submodule "Local/PrivilegeEscalation/Windows/windows-kernel-exploits"]
+	path = Local/PrivilegeEscalation/Windows/windows-kernel-exploits
+	url = https://github.com/SecWiki/windows-kernel-exploits.git
