@@ -79,3 +79,6 @@
 [submodule "Local/PrivilegeEscalation/Windows/windows-kernel-exploits"]
 	path = Local/PrivilegeEscalation/Windows/windows-kernel-exploits
 	url = https://github.com/SecWiki/windows-kernel-exploits.git
+[submodule "Crypto/debian-ssh"]
+	path = Crypto/debian-ssh
+	url = https://github.com/g0tmi1k/debian-ssh.git
