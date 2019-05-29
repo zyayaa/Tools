@@ -82,3 +82,6 @@
 [submodule "Crypto/debian-ssh"]
 	path = Crypto/debian-ssh
 	url = https://github.com/g0tmi1k/debian-ssh.git
+[submodule "Web/bruteforce-http-auth"]
+	path = Web/bruteforce-http-auth
+	url = https://github.com/erforschr/bruteforce-http-auth.git
