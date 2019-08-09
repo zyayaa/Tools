@@ -85,3 +85,6 @@
 [submodule "Web/bruteforce-http-auth"]
 	path = Web/bruteforce-http-auth
 	url = https://github.com/erforschr/bruteforce-http-auth.git
+[submodule "BinExploit/ROPgadget"]
+	path = BinExploit/ROPgadget
+	url = https://github.com/JonathanSalwan/ROPgadget.git
