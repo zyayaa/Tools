@@ -88,3 +88,6 @@
 [submodule "BinExploit/ROPgadget"]
 	path = BinExploit/ROPgadget
 	url = https://github.com/JonathanSalwan/ROPgadget.git
+[submodule "AD/BloodHound"]
+	path = AD/BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound.git
