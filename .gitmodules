@@ -91,3 +91,6 @@
 [submodule "AD/BloodHound"]
 	path = AD/BloodHound
 	url = https://github.com/BloodHoundAD/BloodHound.git
+[submodule "AD/ACLPwn"]
+	path = AD/ACLPwn
+	url = https://github.com/fox-it/Invoke-ACLPwn.git
