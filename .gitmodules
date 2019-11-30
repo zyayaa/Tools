@@ -94,3 +94,6 @@
 [submodule "AD/ACLPwn"]
 	path = AD/ACLPwn
 	url = https://github.com/fox-it/Invoke-ACLPwn.git
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git

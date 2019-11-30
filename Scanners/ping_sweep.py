@@ -29,20 +29,10 @@ if __name__ == '__main__':
 
     for p in pool:
         p.start()
-<<<<<<< HEAD
     
     for x in range(0, 3):
         for i in range(1,pool_size):
             jobs.put('172.16.{0}.{1}'.format(x,i))
-||||||| merged common ancestors
-
-    for i in range(1,255):
-        jobs.put('155.133.194.{0}'.format(i))
-=======
-
-    for i in range(1,255):
-        jobs.put('192.168.0.{0}'.format(i))
->>>>>>> d22b645db8ae9314c35d6b37b92187f97b93531b
 
     for p in pool:
         jobs.put(None)
