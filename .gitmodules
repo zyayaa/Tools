@@ -97,3 +97,6 @@
 [submodule "PowerSploit"]
 	path = PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "Web/ffuf"]
+	path = Web/ffuf
+	url = https://github.com/ffuf/ffuf.git
