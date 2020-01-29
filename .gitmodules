@@ -100,3 +100,6 @@
 [submodule "Web/ffuf"]
 	path = Web/ffuf
 	url = https://github.com/ffuf/ffuf.git
+[submodule "Deserialization/ysoserial.net"]
+	path = Deserialization/ysoserial.net
+	url = git@github.com:pwntester/ysoserial.net.git
