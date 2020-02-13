@@ -106,3 +106,9 @@
 [submodule "AD/BloodHound.py"]
 	path = AD/BloodHound.py
 	url = https://github.com/fox-it/BloodHound.py.git
+[submodule "Deserialization/ysoserial.net"]
+	path = Deserialization/ysoserial.net
+	url = git@github.com:pwntester/ysoserial.net.git
+[submodule "Deserialization/ysoserial"]
+	path = Deserialization/ysoserial
+	url = git@github.com:frohoff/ysoserial.git
