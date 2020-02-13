@@ -100,3 +100,9 @@
 [submodule "Web/ffuf"]
 	path = Web/ffuf
 	url = https://github.com/ffuf/ffuf.git
+[submodule "Shells/winrm-cli"]
+	path = Shells/winrm-cli
+	url = https://github.com/masterzen/winrm-cli.git
+[submodule "AD/BloodHound.py"]
+	path = AD/BloodHound.py
+	url = https://github.com/fox-it/BloodHound.py.git
