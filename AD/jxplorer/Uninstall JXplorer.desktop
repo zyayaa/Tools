@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall JXplorer
+Comment=Uninstall
+Icon=
+Exec=/opt/jxplorer/uninstall
+Terminal=false
+Path=/opt/jxplorer

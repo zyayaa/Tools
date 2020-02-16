@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=JXplorer
+Comment=JXplorer LDAP client
+Icon=/opt/jxplorer/images/logo_32_trans.gif
+Exec=/opt/jxplorer/jxplorer.sh
+Terminal=false
+Path=/opt/jxplorer
