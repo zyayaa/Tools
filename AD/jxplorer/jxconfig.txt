@@ -1,10 +1,10 @@
-#Generated Property List /opt/jxplorer/jxconfig.txt
+#Generated Property List /opt/Tools/AD/jxplorer/jxconfig.txt
 # The property file location defaults to where JXplorer is installed
 # - this can be over-ridden with the system property 'jxplorer.config'
 #   with a config directory location, or set to user home using the
 #   flag 'user.home' (e.g. -Djxplorer.config='user.home' on the command line).
 
-#Sun Feb 16 09:15:03 WET 2020
+#Sun Feb 16 10:15:45 WET 2020
 
 #.level  (java loggin variable) - allowable values are 'OFF', 'SEVERE', 'WARNING', 'INFO', 'FINE', 'FINER', 'FINEST' and 'ALL'
 .level=WARNING
@@ -19,9 +19,9 @@ baseDN=c\=au
 com.ca.level=WARNING
 
 #dir  this sets the directories that JXplorer reads its static resources from.
-dir.help=/opt/jxplorer/help/
-dir.local=/opt/jxplorer/
-dir.plugins=/opt/jxplorer/plugins/
+dir.help=/opt/Tools/AD/jxplorer/help/
+dir.local=/opt/Tools/AD/jxplorer/
+dir.plugins=/opt/Tools/AD/jxplorer/plugins/
 
 #force.locale  use this to set local language detection ('default') or force the use of a particular language. (e.g. 'en' / 'en.US' / 'de' / 'zh.CN' / 'zh.TW'
 force.locale=default
@@ -36,7 +36,7 @@ gui.lookandfeel=javax.swing.plaf.metal.MetalLookAndFeel
 handlers=java.util.logging.ConsoleHandler
 
 #height  set by client GUI - don't change
-height=1059
+height=906
 
 #java.util.logging.ConsoleHandler.formatter  (java logging variable) This sets the built in formatter to use for console reporting
 java.util.logging.ConsoleHandler.formatter=java.util.logging.SimpleFormatter
@@ -145,10 +145,10 @@ url.defaultdirectory=localhost
 url.defaultdirectory.port=389
 
 #width  set by client GUI - don't change
-width=1930
+width=1724
 windows=1
 
 #xml.ldif.rfc  Experimental support for saving XML in LDIF files in editable form (e.g. not base64 encoded)
 xml.ldif.rfc=false
 xpos=-5
-ypos=26
+ypos=31

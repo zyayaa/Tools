@@ -112,3 +112,6 @@
 [submodule "Deserialization/ysoserial"]
 	path = Deserialization/ysoserial
 	url = git@github.com:frohoff/ysoserial.git
+[submodule "AD/kerbrute"]
+	path = AD/kerbrute
+	url = git@github.com:TarlogicSecurity/kerbrute.git
