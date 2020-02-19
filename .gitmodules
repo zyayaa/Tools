@@ -115,3 +115,6 @@
 [submodule "AD/kerbrute"]
 	path = AD/kerbrute
 	url = git@github.com:TarlogicSecurity/kerbrute.git
+[submodule "Networking/Pureftpd-FXPAbuse"]
+	path = Networking/Pureftpd-FXPAbuse
+	url = https://github.com/Diefunction/Pureftpd-FXPAbuse.git
