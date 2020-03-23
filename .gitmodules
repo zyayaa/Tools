@@ -118,3 +118,6 @@
 [submodule "Networking/Pureftpd-FXPAbuse"]
 	path = Networking/Pureftpd-FXPAbuse
 	url = https://github.com/Diefunction/Pureftpd-FXPAbuse.git
+[submodule "Utils/nishang"]
+	path = Utils/nishang
+	url = git@github.com:samratashok/nishang.git
