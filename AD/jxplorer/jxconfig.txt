@@ -4,7 +4,7 @@
 #   with a config directory location, or set to user home using the
 #   flag 'user.home' (e.g. -Djxplorer.config='user.home' on the command line).
 
-#Sun Feb 16 10:15:45 WET 2020
+#Fri Apr 10 22:44:17 WEST 2020
 
 #.level  (java loggin variable) - allowable values are 'OFF', 'SEVERE', 'WARNING', 'INFO', 'FINE', 'FINER', 'FINEST' and 'ALL'
 .level=WARNING
@@ -150,5 +150,5 @@ windows=1
 
 #xml.ldif.rfc  Experimental support for saving XML in LDIF files in editable form (e.g. not base64 encoded)
 xml.ldif.rfc=false
-xpos=-5
-ypos=31
+xpos=135
+ypos=199

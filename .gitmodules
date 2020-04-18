@@ -121,3 +121,12 @@
 [submodule "Utils/nishang"]
 	path = Utils/nishang
 	url = git@github.com:samratashok/nishang.git
+[submodule "AV-ByPass/demiguise"]
+	path = AV-ByPass/demiguise
+	url = git@github.com:nccgroup/demiguise.git
+[submodule "Windows/dpapilab"]
+	path = Windows/dpapilab
+	url = git@github.com:dfirfpi/dpapilab.git
+[submodule "Windows/KeeThief"]
+	path = Windows/KeeThief
+	url = git@github.com:HarmJ0y/KeeThief.git
