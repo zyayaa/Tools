@@ -130,3 +130,6 @@
 [submodule "Windows/KeeThief"]
 	path = Windows/KeeThief
 	url = git@github.com:HarmJ0y/KeeThief.git
+[submodule "AD/SharpGPOAbuse"]
+	path = AD/SharpGPOAbuse
+	url = https://github.com/FSecureLABS/SharpGPOAbuse
