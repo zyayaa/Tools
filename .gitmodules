@@ -133,3 +133,6 @@
 [submodule "AD/SharpGPOAbuse"]
 	path = AD/SharpGPOAbuse
 	url = https://github.com/FSecureLABS/SharpGPOAbuse
+[submodule "Obfuscation/PyFuscation"]
+	path = Obfuscation/PyFuscation
+	url = https://github.com/CBHue/PyFuscation.git
