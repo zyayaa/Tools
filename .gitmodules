@@ -136,3 +136,6 @@
 [submodule "Obfuscation/PyFuscation"]
 	path = Obfuscation/PyFuscation
 	url = https://github.com/CBHue/PyFuscation.git
+[submodule "Local/PrivilegeEscalation/All/privilege-escalation-awesome-scripts-suite"]
+	path = Local/PrivilegeEscalation/All/privilege-escalation-awesome-scripts-suite
+	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
