@@ -139,3 +139,6 @@
 [submodule "Local/PrivilegeEscalation/All/privilege-escalation-awesome-scripts-suite"]
 	path = Local/PrivilegeEscalation/All/privilege-escalation-awesome-scripts-suite
 	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
+[submodule "Local/Debuggers/cefdebug"]
+	path = Local/Debuggers/cefdebug
+	url = https://github.com/taviso/cefdebug.git
