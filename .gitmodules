@@ -142,3 +142,6 @@
 [submodule "Local/Debuggers/cefdebug"]
 	path = Local/Debuggers/cefdebug
 	url = https://github.com/taviso/cefdebug.git
+[submodule "Local/local-exploits"]
+	path = Local/local-exploits
+	url = git@github.com:bcoles/local-exploits.git
