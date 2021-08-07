@@ -145,3 +145,6 @@
 [submodule "Local/local-exploits"]
 	path = Local/local-exploits
 	url = git@github.com:bcoles/local-exploits.git
+[submodule "Crypto/RsaCtfTool"]
+	path = Crypto/RsaCtfTool
+	url = git@github.com:Ganapati/RsaCtfTool.git
