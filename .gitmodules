@@ -154,3 +154,6 @@
 [submodule "Local/PrivilegeEscalation/Linux/linux-smart-enumeration"]
 	path = Local/PrivilegeEscalation/Linux/linux-smart-enumeration
 	url = https://github.com/diego-treitos/linux-smart-enumeration.git
+[submodule "Networking/snmp"]
+	path = Networking/snmp
+	url = git@github.com:dheiland-r7/snmp.git
