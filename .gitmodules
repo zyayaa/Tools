@@ -157,3 +157,6 @@
 [submodule "Networking/snmp"]
 	path = Networking/snmp
 	url = git@github.com:dheiland-r7/snmp.git
+[submodule "PasswordCracking/password_cracking_rules"]
+	path = PasswordCracking/password_cracking_rules
+	url = git@github.com:NotSoSecure/password_cracking_rules.git
