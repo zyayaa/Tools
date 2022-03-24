@@ -160,3 +160,6 @@
 [submodule "PasswordCracking/password_cracking_rules"]
 	path = PasswordCracking/password_cracking_rules
 	url = git@github.com:NotSoSecure/password_cracking_rules.git
+[submodule "PostExploitation/Ghostpack-CompiledBinaries"]
+	path = PostExploitation/Ghostpack-CompiledBinaries
+	url = git@github.com:r3motecontrol/Ghostpack-CompiledBinaries.git
