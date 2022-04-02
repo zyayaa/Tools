@@ -163,3 +163,6 @@
 [submodule "PostExploitation/Ghostpack-CompiledBinaries"]
 	path = PostExploitation/Ghostpack-CompiledBinaries
 	url = git@github.com:r3motecontrol/Ghostpack-CompiledBinaries.git
+[submodule "Utils/Pentest-Cheatsheets"]
+	path = Utils/Pentest-Cheatsheets
+	url = git@github.com:Tib3rius/Pentest-Cheatsheets.git
