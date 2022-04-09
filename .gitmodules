@@ -166,3 +166,6 @@
 [submodule "Utils/Pentest-Cheatsheets"]
 	path = Utils/Pentest-Cheatsheets
 	url = git@github.com:Tib3rius/Pentest-Cheatsheets.git
+[submodule "PostExploitation/firefox_decrypt"]
+	path = PostExploitation/firefox_decrypt
+	url = git@github.com:unode/firefox_decrypt.git
