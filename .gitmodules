@@ -169,3 +169,6 @@
 [submodule "PostExploitation/firefox_decrypt"]
 	path = PostExploitation/firefox_decrypt
 	url = git@github.com:unode/firefox_decrypt.git
+[submodule "PostExploitation/UltimateAppLockerByPassList"]
+	path = PostExploitation/UltimateAppLockerByPassList
+	url = git@github.com:api0cradle/UltimateAppLockerByPassList.git
