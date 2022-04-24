@@ -175,3 +175,6 @@
 [submodule "PasswordCracking/username_generator"]
 	path = PasswordCracking/username_generator
 	url = https://github.com/therodri2/username_generator.git
+[submodule "PasswordCracking/cupp"]
+	path = PasswordCracking/cupp
+	url = https://github.com/Mebus/cupp
