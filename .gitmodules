@@ -172,3 +172,6 @@
 [submodule "PostExploitation/UltimateAppLockerByPassList"]
 	path = PostExploitation/UltimateAppLockerByPassList
 	url = git@github.com:api0cradle/UltimateAppLockerByPassList.git
+[submodule "PasswordCracking/username_generator"]
+	path = PasswordCracking/username_generator
+	url = https://github.com/therodri2/username_generator.git
