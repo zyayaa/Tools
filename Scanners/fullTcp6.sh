@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir nmap
+mkdir -p nmap
 path=nmap/tcp6_$1-top10000
 nmap -6 -sV -sS -A -T4 -v --reason -oA $path $2
 xsltproc $path.xml -o $path.html
