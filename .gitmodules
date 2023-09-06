@@ -178,3 +178,6 @@
 [submodule "PasswordCracking/cupp"]
 	path = PasswordCracking/cupp
 	url = https://github.com/Mebus/cupp
+[submodule "Utils/keepass-dump-masterkey"]
+	path = Utils/keepass-dump-masterkey
+	url = git@github.com:CMEPW/keepass-dump-masterkey.git
